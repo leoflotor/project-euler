@@ -1,0 +1,1 @@
+/home/leo/Documents/projects/project_euler/project_euler_rust/problem_001/target/debug/problem_001: /home/leo/Documents/projects/project_euler/project_euler_rust/problem_001/src/lib.rs /home/leo/Documents/projects/project_euler/project_euler_rust/problem_001/src/main.rs
