@@ -1,0 +1,7 @@
+name = "Problem008"
+uuid = "dca0fe6b-3d1e-41c3-ad24-a1b4d0a2d16e"
+authors = ["leoflotor <leonardoflotor@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"

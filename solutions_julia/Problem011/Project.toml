@@ -1,0 +1,8 @@
+name = "Problem011"
+uuid = "8340885b-bdba-471c-9d99-e6328932b137"
+authors = ["leoflotor <leonardoflotor@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
